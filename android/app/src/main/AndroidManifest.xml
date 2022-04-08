@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.rock_paper_scisser">
    <application
-        android:label="rock_paper_scisser"
+        android:label="سنگ کاغذ قیچی"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
